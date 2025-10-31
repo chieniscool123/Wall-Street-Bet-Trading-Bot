@@ -36,14 +36,14 @@ This approach combines sentiment analysis and automated trading to simulate a ba
 ---
 
 ## Demo
-### 1. Trades being executed
+### 1. Trades sent
 <img width="1476" height="957" alt="image" src="https://github.com/user-attachments/assets/c8b675a8-6ce2-49d9-8406-2a2c050f43b6" />
 
 ### 2. Sentiment Sorted with Matplotlib 
 <img width="951" height="863" alt="image" src="https://github.com/user-attachments/assets/a431e46e-cd0d-4c2d-95c1-d99ad2cc1ae8" />
 
-
-![Trading Bot Demo](https://github.com/your-username/your-repo/raw/main/assets/trading_demo.gif)
+### 3. Day 1 Result 
+<img width="1009" height="584" alt="image" src="https://github.com/user-attachments/assets/221a1946-9264-4839-a6c1-21622b96f1b9" />
 
 ---
 
